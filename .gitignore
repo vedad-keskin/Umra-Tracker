@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# Coverage / build outputs (if used)
+coverage/
+dist/
+build/
+.nyc_output/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE/editor folders
+.vscode/
+.idea/
+.project
+.classpath
+.settings/
+
+# OS/editor artifacts
+Thumbs.db
+Desktop.ini
+
+# Project-generated file (created by create_umra_tracker.js)
+Umra.xlsx
